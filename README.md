@@ -1,3 +1,6 @@
+DVDのスクリーンセーバー風表示
+
+
 マイコンはarudino UNO
 
 #include <Adafruit_GFX.h>
